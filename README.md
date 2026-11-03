@@ -9,7 +9,7 @@
 在豆包工作的对话输入框中直接发送（把下方链接替换为本仓库实际地址）：
 
 ```text
-新建技能 安装：https://github.com/<你的用户名>/kansei-design-research
+新建技能 安装：https://github.com/zenowill3-coder/kansei-design-research
 ```
 
 系统会自动完成导入和安装，随后按技能流程开始对话即可。
@@ -19,13 +19,13 @@
 打开豆包 PC 客户端「插件·技能·伙伴」→ 技能页面 → 右上角「+ 添加 / 上传技能」→ 选择「从链接导入」，粘贴本仓库 URL：
 
 ```text
-https://github.com/<你的用户名>/kansei-design-research
+https://github.com/zenowill3-coder/kansei-design-research
 ```
 
 ### 方式三：克隆后本地安装（兜底）
 
 ```bash
-git clone https://github.com/<你的用户名>/kansei-design-research.git
+git clone https://github.com/zenowill3-coder/kansei-design-research.git
 ```
 
 然后在豆包 PC 客户端「上传技能」窗口中，把包含 `SKILL.md` 的文件夹拖入即可。
